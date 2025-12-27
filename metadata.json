@@ -1,0 +1,5 @@
+{
+  "name": "ShiftTracker Pro",
+  "description": "A professional attendance tracking application designed for shift workers. Manage Morning, Evening, and Night shifts across a full calendar year with monthly views, statistical insights, and advanced reporting.",
+  "requestFramePermissions": []
+}
